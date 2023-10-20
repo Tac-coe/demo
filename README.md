@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+data entry
 <html>
 <head>
     <title>Data Entry Form</title>
