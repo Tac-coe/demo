@@ -30,7 +30,7 @@ data entry
         document.getElementById("dataForm").addEventListener("submit", function(event) {
             event.preventDefault();
             var formData = new FormData(event.target);
-            var url = "YOUR_WEB_APP_URL"; // Replace with your web app URL
+            var url = "https://script.google.com/macros/s/AKfycbzIRu92bIiL8pe1pyZd8C8JIwMEXG1EIiwQvmLEY2viCYI4_OwO0q2I7BHQffqGBRn_tw/exec"; // Replace with your web app URL
 
             fetch(url, {
                 method: "POST",
